@@ -1,0 +1,5 @@
+streamlit>=1.35.0
+transformers>=4.40.0
+torch>=2.3.0
+numpy>=1.26.0
+textblob>=0.15.3
